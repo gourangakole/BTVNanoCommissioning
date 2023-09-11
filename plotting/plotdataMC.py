@@ -121,6 +121,10 @@ else:
     mergemap["mc"] = mclist
     mergemap["data"] = datalist
 collated = collate(output, mergemap)
+
+
+print (collated["mc"].keys())
+
 ### input text settings
 if "Wc" in arg.phase:
     input_txt = "W+c"
