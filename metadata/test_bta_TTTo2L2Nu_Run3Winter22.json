@@ -1,0 +1,12 @@
+{
+    "DoubleMuon_Run2022C-10Dec2022-v1":[
+        "root://eoscms.cern.ch//eos/cms/store/group/phys_btag/nano-commissioning/Run3/DoubleMu/nano_data2022ABCD_1.root"
+    ],
+    "TTto4Q_TuneCP5_13p6TeV_powheg-pythia8":[
+	"root://eoscms.cern.ch//eos/cms/store/user/coli/PFNano/2022/mc/TTto4Q_TuneCP5_13p6TeV_powheg-pythia8/PFNano_v1_Run3Summer22MiniAODv3-124X_v12-v4/230629_163448/0000/nano_mcRun3_8.root"
+    ],
+    "TTTo2L2Nu_CP5_13p6TeV_powheg-pythia8":[
+	"root://xrootd-cms.infn.it///store/mc/Run3Winter22NanoAOD/TTTo2L2Nu_CP5_13p6TeV_powheg-pythia8/NANOAODSIM/122X_mcRun3_2021_realistic_v9-v1/40000/a59cbee1-cd7d-498d-aa23-b5195f3b6166.root",
+	"root://xrootd-cms.infn.it///store/mc/Run3Winter22NanoAOD/TTTo2L2Nu_CP5_13p6TeV_powheg-pythia8/NANOAODSIM/122X_mcRun3_2021_realistic_v9-v1/40000/8124215e-1e72-4445-8c06-ec5a46042e73.root"
+    ]
+}
